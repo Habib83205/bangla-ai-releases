@@ -5,7 +5,7 @@
 
   <p>
     <a href="https://github.com/Habib83205/bangla-ai/releases/latest">
-      <img src="https://img.shields.io/badge/Release-BanglaAi%20v2.8-7c3aed?style=for-the-badge&logo=windows&logoColor=white" alt="Latest Release v2.8" />
+      <img src="https://img.shields.io/badge/Release-BanglaAi%20v2.9-7c3aed?style=for-the-badge&logo=windows&logoColor=white" alt="Latest Release v2.9" />
     </a>
     <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(x64)-4f46e5?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 10/11" />
     <img src="https://img.shields.io/badge/Languages-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%20%7C%20Banglish%20%7C%20English-10b981?style=for-the-badge" alt="Bilingual Support" />
@@ -37,14 +37,14 @@
 ## 📥 Download Windows Desktop App
 
 > [!TIP]
-> **1-Click Silent Installer & Auto-Update:** Download and run **`BanglaAi v2.8.exe`** once. Every future release automatically checks for updates and installs **100% silently** with a single permission click — zero setup wizards required.
+> **1-Click Silent Installer & Auto-Update:** Download and run **`BanglaAi v2.9.exe`** once. Every future release automatically checks for updates and installs **100% silently** with a single permission click — zero setup wizards required.
 
 | Channel | Package | Direct Access |
 | :--- | :--- | :--- |
-| **Direct Installer (Latest)** | `BanglaAi v2.8.exe` (Windows x64) | [**Download BanglaAi v2.8.exe**](https://github.com/Habib83205/bangla-ai-releases/releases/latest/download/BanglaAi.v2.8.exe) |
+| **Direct Installer (Latest)** | `BanglaAi v2.9.exe` (Windows x64) | [**Download BanglaAi v2.9.exe**](https://github.com/Habib83205/bangla-ai-releases/releases/latest/download/BanglaAi.v2.9.exe) |
 | **Repository Releases** | Versioned `.exe` + release notes | [**Habib83205/bangla-ai/releases**](https://github.com/Habib83205/bangla-ai/releases/latest) |
 | **Public Auto-Update Feed** | Silent update feed (`latest.yml`) | [**Habib83205/bangla-ai-releases**](https://github.com/Habib83205/bangla-ai-releases/releases/latest) |
-| **In-Repo Binary (Git LFS)** | Tracked in project root | [**`./BanglaAi v2.8.exe`**](./BanglaAi%20v2.8.exe) |
+| **In-Repo Binary (Git LFS)** | Tracked in project root | [**`./BanglaAi v2.9.exe`**](./BanglaAi%20v2.9.exe) |
 
 ---
 
