@@ -11,8 +11,8 @@ Only the latest published release receives active security patches and silent de
 
 | Version | Status |
 | :--- | :--- |
-| **`BanglaAi v2.5` (Latest)** | ✅ Actively Supported & Receiving Silent Updates |
-| `< v2.5` | ⚠️ Please update to the latest version via **Settings → General → Check for updates** |
+| **`BanglaAi v2.6` (Latest)** | ✅ Actively Supported & Receiving Silent Updates |
+| `< v2.6` | ⚠️ Please update to the latest version via **Settings → General → Check for updates** |
 
 ---
 
