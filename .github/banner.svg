@@ -112,7 +112,7 @@
 
     <!-- Footer Attribution Line -->
     <text x="2" y="224" fill="#94a3b8" font-family="'Segoe UI', Inter, system-ui, sans-serif" font-size="13" font-weight="500">
-      Crafted by <tspan fill="#e2e8f0" font-weight="700">Habib Nabil</tspan>  •  v2.12  •  © 2026 All Rights Reserved
+      Crafted by <tspan fill="#e2e8f0" font-weight="700">Habib Nabil</tspan>  •  v2.13  •  © 2026 All Rights Reserved
     </text>
   </g>
 </svg>
